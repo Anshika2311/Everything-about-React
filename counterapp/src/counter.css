@@ -1,0 +1,16 @@
+button{
+    margin:20px;
+    background-color: blue;
+    color:white;
+    border-color:blue;
+    border-radius:5px;
+    font-size:30px
+}
+
+body{
+    background-color: teal;
+}
+
+h1{
+    font-size:100px
+}
